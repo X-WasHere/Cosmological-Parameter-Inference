@@ -21,7 +21,7 @@ The following Python packages are required for this project:
 To install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ## Dataset
 
@@ -30,10 +30,11 @@ Dataset can be found here: https://camels-multifield-dataset.readthedocs.io/en/l
 
 ## References
 
-F. V.-N. e. al, “The CAMELS Multifield Dataset: Learning the Universe's Fundamental Parameters with Artificial Intelligence,” arxiv, 2021. <br/>
-T. R. M. D. Randall Wilson, “The general inefficiency of batch training for gradient descent learning,” Neural Networks , vol. 16, no. 10, pp. 1429-1451, 2003. <br/>
-A. Z. Karen Simonyan, “Very Deep Convolutional Networks for Large-Scale Image Recognition,” arxiv, 2014. <br/> 
-O. Ronneberger, P. Fischer and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation,” arxiv, 2015. <br/>
+- F. Villaescusa-Navarro et. al, “The CAMELS Multifield Dataset: Learning the Universe's Fundamental Parameters with Artificial Intelligence,” arxiv, 2021. <br/>
+- D. Randall Wilson and T. R. Martinez, “The general inefficiency of batch training for gradient descent learning,” Neural Networks, vol. 16, no. 10, pp. 1429-1451, 2003. <br/>
+- K. Simonyan and A. Zisserman, “Very Deep Convolutional Networks for Large-Scale Image Recognition,” arxiv, 2014. <br/>
+- O. Ronneberger, P. Fischer and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation,” arxiv, 2015. 
+
 
 
 
