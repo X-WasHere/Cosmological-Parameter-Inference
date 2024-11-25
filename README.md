@@ -21,7 +21,7 @@ The following Python packages are required for this project:
 To install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt bash```
 
 ## Dataset
 
